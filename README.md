@@ -1,15 +1,25 @@
 # Dissimilar Nodes Improve Graph Active Learning
 
 Code for the paper "Dissimilar Nodes Improve Graph Active Learning", in NeurIPS 2022 Workshop GLFrontiers.
+
 Feel free to check out our paper at https://openreview.net/pdf?id=oyCzkPJTm3f
+
 Cite as
+
 @inproceedings{
+
 ren2022dissimilar,
+
 title={Dissimilar Nodes Improve Graph Active Learning},
+
 author={Zhicheng Ren and Yifu Yuan and Yuxin Wu and Xiaxuan Gao and YEWEN WANG and Yizhou Sun},
+
 booktitle={NeurIPS 2022 Workshop: New Frontiers in Graph Learning},
+
 year={2022},
+
 url={https://openreview.net/forum?id=oyCzkPJTm3f}
+
 }
 
 ## Introduction
