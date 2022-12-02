@@ -1,6 +1,6 @@
 # Model Variants
 
-This directory is for different backbones used for learning stage of active learning. In total we tested 4 models, GCN, GAT, and SGC.
+This directory is for different backbones used for learning stage of active learning. In total we tested 3 models, GCN, GAT, and SGC.
 
 ## Usage
 
