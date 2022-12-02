@@ -40,6 +40,4 @@ Folder "model_variants" includes implementation of other GNN-variants which is a
 
 Folder "AGE-Heterophily" includes experiments on heterophilic datasets.
 
-Folder "KMedoids" includes ablation studies about the choice of clustering algorithms.
-
-And folder "experimental_snapshots" includes the .ipynb files which record our experimental results.
+And folder "KMedoids" includes ablation studies about the choice of clustering algorithms.
